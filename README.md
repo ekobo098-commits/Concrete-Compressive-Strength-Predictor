@@ -1,6 +1,6 @@
 # 🏗️ Concrete Compressive Strength Predictor
 
-A simple Machine Learning web application built with **Streamlit** and **Scikit-learn** that predicts the compressive strength of concrete based on its material composition.
+Machine Learning web application built with **Streamlit** and **Scikit-learn** that predicts the compressive strength of concrete based on its material composition.
 
 The application compares predictions from **Linear Regression** and **Random Forest Regression** models, allowing users to observe the performance of different machine learning algorithms on the same input data.
 
@@ -156,6 +156,6 @@ An ensemble learning method that combines multiple decision trees for improved p
 
 ## 👨‍💻 Author: Sarthak Salve
 
-Created as a Civil Engineering + Machine Learning mini project using Streamlit and Scikit-learn.
+Created as a Civil Engineering + Machine Learning project using Streamlit and Scikit-learn.
 
 Feel free to fork this repository, improve the models, and contribute.
